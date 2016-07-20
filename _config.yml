@@ -1,7 +1,7 @@
 name: uniquename
 favicon: null
-layout_spectrum: 0.21101441513746977
-typography_spectrum: 0.6752857710234821
+layout_spectrum: 0.29096
+typography_spectrum: 0.79383
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#243026'
+    - '#fece00'
+    - '#fcfbf7'
+    - '#7a95b3'
+    - '#fc7a96'
   brandStrength: 0.31516065052710474
   lightness: 0.4309603387955576
   saturation: 0.18695877771824598
